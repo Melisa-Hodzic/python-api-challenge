@@ -35,7 +35,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+WeatherPy/api_keys.py
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -81,7 +81,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
-WeatherPy/api_keys.py
+
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
